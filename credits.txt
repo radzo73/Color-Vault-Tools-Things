@@ -2,3 +2,4 @@ https://godotengine.org/
 https://goostengine.github.io/
 https://discord.gg/xZtTqX4/
 https://www.youtube.com/channel/UC9oxMzgFQhFSwuzIN7toxlw/
+https://github.com/HeartoLazor/godot_palette_swap/
